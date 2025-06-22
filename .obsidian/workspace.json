@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "7857ba0066c9bbba",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac5e2b9c71fe8e8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c4b4b4d4d4b4b4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Materiały/Sylabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c08c59b0707069a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5c5b5c5b5c5b5c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6f6f6f6f6f6f6f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "g7g7g7g7g7g7g7g7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "h8h8h8h8h8h8h8h8",
+    "type": "split",
+    "children": [
+      {
+        "id": "i9i9i9i9i9i9i9i9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "j0j0j0j0j0j0j0j0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03-Materiały/Sylabus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "k1k1k1k1k1k1k1k1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "6c4b4b4d4d4b4b4d",
+  "lastOpenFiles": [
+    "03-Materiały/Sylabus.md",
+    "01-Wykłady/Wykład 1 - Wprowadzenie.md",
+    "02-Notatki/Metody badawcze.md",
+    "CLAUDE.md"
+  ]
+}
