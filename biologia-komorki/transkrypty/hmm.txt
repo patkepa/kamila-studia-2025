@@ -1,0 +1,55 @@
+Co musimy umiec:
+
+- Metody identyfikacji modyfikacji potranskrypcyjnych:
+- Rna-bis seq
+- Rip-see
+- Nanopor-seq
+- Em-seq
+- Badanie m6a metylacji:
+- Mapowanie m6a
+- Testy funkcjonalne
+- Pull down associated protweins
+- Metoda transkrypcji in vivo
+- Okreslenie lokalizacji metylacji i konsekwencji
+- Uv cross linking
+Techniki badawcze:
+-transfekcja mrna do komórek
+-rip-seq `9rozne typy rna sa bardziej podatne na m6a)
+-analiza polisomów
+-znakowanie z wykorzystaniem rybosomów ribo-seq
+-merip-seq
+Dodatkowo:
+Lc-ms
+￼ 1
+-ms rna
+-hplc
+-rnabioseq
+-wo-seq
+-lawo-seq
+Nanopor-seq
+-immunohistochenia
+-heat map
+-qpcr rt-qpcr RNA edna
+-pull down
+-mapping m6a in selected model systems
+-cellular processing
+-ILUMNA SEQUENCING
+-izolacja rna `(triol, kolumienki`)
+- alternatywny splicing fox2
+- Lilac light -> h/c ratio
+- -znakowanie fluorocholrammi (efektywność translacji`0
+- -ribosome foot printing
+- -total mana abundance
+Izolacja rna:
+1) metoda z trizolem:
+- dodajemy 200 ul chloroformu na 1 ml trizolu. Wiec najpierw chloroform
+- Potem tworzy się faza organiczna i wodna, we wodnej jest rna, zabieramy ja do
+czystego ependorfa
+- Dodajemy trizolu wirujemy, rna z boku próbki. Śledzimy protokół oczyszczania i
+przechowywania rna.
+￼ 2
+2) metoda kolumienkowa
+Qpcr:
+-do detekcji cząstek witalnych przez sabr green qpcr lub taqman próbę qpcr
+Qpcr data analysis biologuwith harman
+￼
